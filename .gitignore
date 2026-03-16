@@ -1,0 +1,27 @@
+# Node
+node_modules
+.next
+dist
+out
+coverage
+
+# Python
+.venv
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
+.env.*
+!.env.example
+
+# DB
+*.sqlite3
+*.db
+worldlens.db
