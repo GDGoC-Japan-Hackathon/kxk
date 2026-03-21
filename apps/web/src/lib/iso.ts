@@ -1,0 +1,41 @@
+export const ISO_A3_TO_A2: Record<string, string> = {
+  USA: "US",
+  CAN: "CA",
+  MEX: "MX",
+  BRA: "BR",
+  ARG: "AR",
+  CHL: "CL",
+  GBR: "GB",
+  DEU: "DE",
+  FRA: "FR",
+  ESP: "ES",
+  ITA: "IT",
+  NOR: "NO",
+  SWE: "SE",
+  FIN: "FI",
+  RUS: "RU",
+  UKR: "UA",
+  TUR: "TR",
+  SAU: "SA",
+  ARE: "AE",
+  ZAF: "ZA",
+  EGY: "EG",
+  NGA: "NG",
+  KEN: "KE",
+  CHN: "CN",
+  JPN: "JP",
+  KOR: "KR",
+  IND: "IN",
+  IDN: "ID",
+  AUS: "AU",
+  NZL: "NZ",
+  SGP: "SG",
+  THA: "TH",
+  VNM: "VN",
+  PHL: "PH",
+};
+
+export function isoA3ToA2(code: string | null | undefined): string | undefined {
+  if (!code) return undefined;
+  return ISO_A3_TO_A2[code.toUpperCase()];
+}

@@ -1,0 +1,1696 @@
+{
+  "GLOBAL": [
+    {
+      "name": "Reuters World",
+      "url": "https://feeds.reuters.com/Reuters/worldNews",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Reuters Business",
+      "url": "https://feeds.reuters.com/reuters/businessNews",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Markets",
+      "url": "https://feeds.reuters.com/reuters/marketsNews",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Technology",
+      "url": "https://feeds.reuters.com/reuters/technologyNews",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "AP Top",
+      "url": "https://feeds.apnews.com/apf-topnews",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "AP Business",
+      "url": "https://feeds.apnews.com/apf-business",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "CNBC Top",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "CNBC World",
+      "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "CNBC Finance",
+      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FT World",
+      "url": "https://www.ft.com/world?format=rss",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "FT Markets",
+      "url": "https://www.ft.com/markets?format=rss",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FT Companies",
+      "url": "https://www.ft.com/companies?format=rss",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "earnings"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "publisher_country": "QA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "DW Top",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "publisher_country": "DE",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/rss?format=mrss",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "The Economist Intl",
+      "url": "https://www.economist.com/international/rss.xml",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "MarketWatch Top",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters World markets",
+      "url": "https://feeds.reuters.com/Reuters/worldNews?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters World technology",
+      "url": "https://feeds.reuters.com/Reuters/worldNews?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Reuters Business markets",
+      "url": "https://feeds.reuters.com/reuters/businessNews?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Business technology",
+      "url": "https://feeds.reuters.com/reuters/businessNews?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Reuters Markets markets",
+      "url": "https://feeds.reuters.com/reuters/marketsNews?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Markets technology",
+      "url": "https://feeds.reuters.com/reuters/marketsNews?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Reuters Technology markets",
+      "url": "https://feeds.reuters.com/reuters/technologyNews?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Technology technology",
+      "url": "https://feeds.reuters.com/reuters/technologyNews?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "AP Top markets",
+      "url": "https://feeds.apnews.com/apf-topnews?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "AP Top technology",
+      "url": "https://feeds.apnews.com/apf-topnews?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "AP Business markets",
+      "url": "https://feeds.apnews.com/apf-business?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "AP Business technology",
+      "url": "https://feeds.apnews.com/apf-business?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "BBC World markets",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BBC World technology",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "BBC Business markets",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BBC Business technology",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "BBC Technology markets",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BBC Technology technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "CNBC Top markets",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "CNBC Top technology",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "CNBC World markets",
+      "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "CNBC World technology",
+      "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "CNBC Finance markets",
+      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "CNBC Finance technology",
+      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "FT World markets",
+      "url": "https://www.ft.com/world?format=rss&view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FT World technology",
+      "url": "https://www.ft.com/world?format=rss&view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "FT Markets markets",
+      "url": "https://www.ft.com/markets?format=rss&view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FT Markets technology",
+      "url": "https://www.ft.com/markets?format=rss&view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "FT Companies markets",
+      "url": "https://www.ft.com/companies?format=rss&view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FT Companies technology",
+      "url": "https://www.ft.com/companies?format=rss&view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Al Jazeera markets",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml?view=macro",
+      "publisher_country": "QA",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Al Jazeera technology",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml?view=tech",
+      "publisher_country": "QA",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "DW Top markets",
+      "url": "https://rss.dw.com/rdf/rss-en-all?view=macro",
+      "publisher_country": "DE",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "DW Top technology",
+      "url": "https://rss.dw.com/rdf/rss-en-all?view=tech",
+      "publisher_country": "DE",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Euronews markets",
+      "url": "https://www.euronews.com/rss?format=mrss&view=macro",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Euronews technology",
+      "url": "https://www.euronews.com/rss?format=mrss&view=tech",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "The Economist Intl markets",
+      "url": "https://www.economist.com/international/rss.xml?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "The Economist Intl technology",
+      "url": "https://www.economist.com/international/rss.xml?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "MarketWatch Top markets",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "MarketWatch Top technology",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "KR": [
+    {
+      "name": "Yonhap",
+      "url": "https://en.yna.co.kr/RSS/news.xml",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Korea Herald",
+      "url": "http://www.koreaherald.com/common_prog/rssdisp.php?ct=020000000000.xml",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Korea JoongAng Daily",
+      "url": "https://koreajoongangdaily.joins.com/Section/Default?sectcode=001&cloc=joongang-rss-all",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Maeil Business",
+      "url": "https://www.mk.co.kr/rss/30000001/",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Hankyung Economy",
+      "url": "https://www.hankyung.com/feed/economy",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Yonhap markets",
+      "url": "https://en.yna.co.kr/RSS/news.xml?view=macro",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Yonhap technology",
+      "url": "https://en.yna.co.kr/RSS/news.xml?view=tech",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Korea Herald markets",
+      "url": "http://www.koreaherald.com/common_prog/rssdisp.php?ct=020000000000.xml&view=macro",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Korea Herald technology",
+      "url": "http://www.koreaherald.com/common_prog/rssdisp.php?ct=020000000000.xml&view=tech",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Korea JoongAng Daily markets",
+      "url": "https://koreajoongangdaily.joins.com/Section/Default?sectcode=001&cloc=joongang-rss-all&view=macro",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Korea JoongAng Daily technology",
+      "url": "https://koreajoongangdaily.joins.com/Section/Default?sectcode=001&cloc=joongang-rss-all&view=tech",
+      "publisher_country": "KR",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Maeil Business markets",
+      "url": "https://www.mk.co.kr/rss/30000001/?view=macro",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Maeil Business technology",
+      "url": "https://www.mk.co.kr/rss/30000001/?view=tech",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Hankyung Economy markets",
+      "url": "https://www.hankyung.com/feed/economy?view=macro",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Hankyung Economy technology",
+      "url": "https://www.hankyung.com/feed/economy?view=tech",
+      "publisher_country": "KR",
+      "language": "ko",
+      "category_hint": "tech"
+    }
+  ],
+  "JP": [
+    {
+      "name": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/rss/feed/nar",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Japan Times",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Asahi",
+      "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "NHK World",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Kyodo",
+      "url": "https://english.kyodonews.net/rss/news.xml",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Nikkei Asia markets",
+      "url": "https://asia.nikkei.com/rss/feed/nar?view=macro",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Nikkei Asia technology",
+      "url": "https://asia.nikkei.com/rss/feed/nar?view=tech",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Japan Times markets",
+      "url": "https://www.japantimes.co.jp/feed/?view=macro",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Japan Times technology",
+      "url": "https://www.japantimes.co.jp/feed/?view=tech",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Asahi markets",
+      "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf?view=macro",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Asahi technology",
+      "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf?view=tech",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "tech"
+    },
+    {
+      "name": "NHK World markets",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml?view=macro",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "macro"
+    },
+    {
+      "name": "NHK World technology",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml?view=tech",
+      "publisher_country": "JP",
+      "language": "ja",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Kyodo markets",
+      "url": "https://english.kyodonews.net/rss/news.xml?view=macro",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Kyodo technology",
+      "url": "https://english.kyodonews.net/rss/news.xml?view=tech",
+      "publisher_country": "JP",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "CN": [
+    {
+      "name": "SCMP",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "publisher_country": "HK",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Caixin Global",
+      "url": "https://www.caixinglobal.com/rss/feed.xml",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "China Daily",
+      "url": "http://www.chinadaily.com.cn/rss/world_rss.xml",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Global Times",
+      "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "SCMP markets",
+      "url": "https://www.scmp.com/rss/91/feed?view=macro",
+      "publisher_country": "HK",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "SCMP technology",
+      "url": "https://www.scmp.com/rss/91/feed?view=tech",
+      "publisher_country": "HK",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Caixin Global markets",
+      "url": "https://www.caixinglobal.com/rss/feed.xml?view=macro",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Caixin Global technology",
+      "url": "https://www.caixinglobal.com/rss/feed.xml?view=tech",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "China Daily markets",
+      "url": "http://www.chinadaily.com.cn/rss/world_rss.xml?view=macro",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "China Daily technology",
+      "url": "http://www.chinadaily.com.cn/rss/world_rss.xml?view=tech",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Global Times markets",
+      "url": "https://www.globaltimes.cn/rss/outbrain.xml?view=macro",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Global Times technology",
+      "url": "https://www.globaltimes.cn/rss/outbrain.xml?view=tech",
+      "publisher_country": "CN",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "IN": [
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "LiveMint",
+      "url": "https://www.livemint.com/rss/markets",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Business Standard",
+      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "The Hindu markets",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss?view=macro",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "The Hindu technology",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss?view=tech",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Economic Times markets",
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms?view=macro",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Economic Times technology",
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms?view=tech",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "LiveMint markets",
+      "url": "https://www.livemint.com/rss/markets?view=macro",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "LiveMint technology",
+      "url": "https://www.livemint.com/rss/markets?view=tech",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Business Standard markets",
+      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss?view=macro",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Business Standard technology",
+      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss?view=tech",
+      "publisher_country": "IN",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "US": [
+    {
+      "name": "NYTimes World",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "NYTimes Business",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "WSJ World",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/rss/politicopicks.xml",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "NYTimes World markets",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "NYTimes World technology",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "NYTimes Business markets",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "NYTimes Business technology",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "WSJ World markets",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "WSJ World technology",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "WSJ Markets markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "WSJ Markets technology",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Bloomberg Markets markets",
+      "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Bloomberg Markets technology",
+      "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Politico markets",
+      "url": "https://www.politico.com/rss/politicopicks.xml?view=macro",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Politico technology",
+      "url": "https://www.politico.com/rss/politicopicks.xml?view=tech",
+      "publisher_country": "US",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "CA": [
+    {
+      "name": "CBC Top",
+      "url": "https://www.cbc.ca/cmlink/rss-topstories",
+      "publisher_country": "CA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "CBC World",
+      "url": "https://www.cbc.ca/cmlink/rss-world",
+      "publisher_country": "CA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/?service=rss",
+      "publisher_country": "CA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "AU": [
+    {
+      "name": "ABC Australia",
+      "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+      "publisher_country": "AU",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "SMH World",
+      "url": "https://www.smh.com.au/rss/feed.xml",
+      "publisher_country": "AU",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "AFR Markets",
+      "url": "https://www.afr.com/rss/markets",
+      "publisher_country": "AU",
+      "language": "en",
+      "category_hint": "macro"
+    }
+  ],
+  "NZ": [
+    {
+      "name": "RNZ World",
+      "url": "https://www.rnz.co.nz/rss/world.xml",
+      "publisher_country": "NZ",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "NZ Herald Business",
+      "url": "https://www.nzherald.co.nz/rss/business/",
+      "publisher_country": "NZ",
+      "language": "en",
+      "category_hint": "macro"
+    }
+  ],
+  "BR": [
+    {
+      "name": "Reuters Brasil",
+      "url": "https://www.reutersagency.com/feed/?best-topics=brazil&post_type=best",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Estadao Economia",
+      "url": "https://www.estadao.com.br/rss/economia.xml",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Folha Mundo",
+      "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Reuters Brasil markets",
+      "url": "https://www.reutersagency.com/feed/?best-topics=brazil&post_type=best&view=macro",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Reuters Brasil technology",
+      "url": "https://www.reutersagency.com/feed/?best-topics=brazil&post_type=best&view=tech",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Estadao Economia markets",
+      "url": "https://www.estadao.com.br/rss/economia.xml?view=macro",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Estadao Economia technology",
+      "url": "https://www.estadao.com.br/rss/economia.xml?view=tech",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Folha Mundo markets",
+      "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml?view=macro",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Folha Mundo technology",
+      "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml?view=tech",
+      "publisher_country": "BR",
+      "language": "pt",
+      "category_hint": "tech"
+    }
+  ],
+  "AR": [
+    {
+      "name": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/economia/",
+      "publisher_country": "AR",
+      "language": "es",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Clarin Mundo",
+      "url": "https://www.clarin.com/rss/mundo/",
+      "publisher_country": "AR",
+      "language": "es",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "MX": [
+    {
+      "name": "El Universal Mundo",
+      "url": "https://www.eluniversal.com.mx/rss.xml",
+      "publisher_country": "MX",
+      "language": "es",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Milenio Negocios",
+      "url": "https://www.milenio.com/rss/negocios",
+      "publisher_country": "MX",
+      "language": "es",
+      "category_hint": "macro"
+    }
+  ],
+  "CL": [
+    {
+      "name": "Emol Economia",
+      "url": "https://www.emol.com/rss/rss.asp?canal=Economia",
+      "publisher_country": "CL",
+      "language": "es",
+      "category_hint": "macro"
+    }
+  ],
+  "CO": [
+    {
+      "name": "El Tiempo Economia",
+      "url": "https://www.eltiempo.com/rss/economia.xml",
+      "publisher_country": "CO",
+      "language": "es",
+      "category_hint": "macro"
+    }
+  ],
+  "PE": [
+    {
+      "name": "El Comercio Mundo",
+      "url": "https://elcomercio.pe/arcio/rss/",
+      "publisher_country": "PE",
+      "language": "es",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "GB": [
+    {
+      "name": "Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Guardian Business",
+      "url": "https://www.theguardian.com/uk/business/rss",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Telegraph World",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Guardian World markets",
+      "url": "https://www.theguardian.com/world/rss?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Guardian World technology",
+      "url": "https://www.theguardian.com/world/rss?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Guardian Business markets",
+      "url": "https://www.theguardian.com/uk/business/rss?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Guardian Business technology",
+      "url": "https://www.theguardian.com/uk/business/rss?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Telegraph World markets",
+      "url": "https://www.telegraph.co.uk/rss.xml?view=macro",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Telegraph World technology",
+      "url": "https://www.telegraph.co.uk/rss.xml?view=tech",
+      "publisher_country": "GB",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "FR": [
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/en/rss/une.xml",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "France24",
+      "url": "https://www.france24.com/en/rss",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Les Echos",
+      "url": "https://www.lesechos.fr/rss/rss_une.xml",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Le Monde markets",
+      "url": "https://www.lemonde.fr/en/rss/une.xml?view=macro",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Le Monde technology",
+      "url": "https://www.lemonde.fr/en/rss/une.xml?view=tech",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "tech"
+    },
+    {
+      "name": "France24 markets",
+      "url": "https://www.france24.com/en/rss?view=macro",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "France24 technology",
+      "url": "https://www.france24.com/en/rss?view=tech",
+      "publisher_country": "FR",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Les Echos markets",
+      "url": "https://www.lesechos.fr/rss/rss_une.xml?view=macro",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Les Echos technology",
+      "url": "https://www.lesechos.fr/rss/rss_une.xml?view=tech",
+      "publisher_country": "FR",
+      "language": "fr",
+      "category_hint": "tech"
+    }
+  ],
+  "DE": [
+    {
+      "name": "DW Germany",
+      "url": "https://rss.dw.com/rdf/rss-de-all",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FAZ Wirtschaft",
+      "url": "https://www.faz.net/rss/aktuell/wirtschaft/",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "macro"
+    },
+    {
+      "name": "DW Germany markets",
+      "url": "https://rss.dw.com/rdf/rss-de-all?view=macro",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "macro"
+    },
+    {
+      "name": "DW Germany technology",
+      "url": "https://rss.dw.com/rdf/rss-de-all?view=tech",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "tech"
+    },
+    {
+      "name": "Handelsblatt markets",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen?view=macro",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "macro"
+    },
+    {
+      "name": "Handelsblatt technology",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen?view=tech",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "tech"
+    },
+    {
+      "name": "FAZ Wirtschaft markets",
+      "url": "https://www.faz.net/rss/aktuell/wirtschaft/?view=macro",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "macro"
+    },
+    {
+      "name": "FAZ Wirtschaft technology",
+      "url": "https://www.faz.net/rss/aktuell/wirtschaft/?view=tech",
+      "publisher_country": "DE",
+      "language": "de",
+      "category_hint": "tech"
+    }
+  ],
+  "IT": [
+    {
+      "name": "ANSA Mondo",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+      "publisher_country": "IT",
+      "language": "it",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/rss/home.xml",
+      "publisher_country": "IT",
+      "language": "it",
+      "category_hint": "macro"
+    }
+  ],
+  "ES": [
+    {
+      "name": "El Pais Internacional",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+      "publisher_country": "ES",
+      "language": "es",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Expansion",
+      "url": "https://e00-expansion.uecdn.es/rss/mercados.xml",
+      "publisher_country": "ES",
+      "language": "es",
+      "category_hint": "macro"
+    }
+  ],
+  "NL": [
+    {
+      "name": "DutchNews",
+      "url": "https://www.dutchnews.nl/feed/",
+      "publisher_country": "NL",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "SE": [
+    {
+      "name": "The Local Sweden",
+      "url": "https://feeds.thelocal.com/rss/se",
+      "publisher_country": "SE",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "NO": [
+    {
+      "name": "Aftenposten",
+      "url": "https://www.aftenposten.no/rss",
+      "publisher_country": "NO",
+      "language": "no",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "FI": [
+    {
+      "name": "Yle News",
+      "url": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET",
+      "publisher_country": "FI",
+      "language": "fi",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "PL": [
+    {
+      "name": "Notes from Poland",
+      "url": "https://notesfrompoland.com/feed/",
+      "publisher_country": "PL",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "TR": [
+    {
+      "name": "Daily Sabah",
+      "url": "https://www.dailysabah.com/rss",
+      "publisher_country": "TR",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Hurriyet Daily",
+      "url": "https://www.hurriyetdailynews.com/rss",
+      "publisher_country": "TR",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "UA": [
+    {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/feed/",
+      "publisher_country": "UA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Ukrinform",
+      "url": "https://www.ukrinform.net/rss/block-lastnews",
+      "publisher_country": "UA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "RU": [
+    {
+      "name": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/rss/news",
+      "publisher_country": "RU",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "SA": [
+    {
+      "name": "Arab News",
+      "url": "https://www.arabnews.com/rss.xml",
+      "publisher_country": "SA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "AE": [
+    {
+      "name": "The National",
+      "url": "https://www.thenationalnews.com/rss",
+      "publisher_country": "AE",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Gulf News",
+      "url": "https://gulfnews.com/rss",
+      "publisher_country": "AE",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "IL": [
+    {
+      "name": "Times of Israel",
+      "url": "https://www.timesofisrael.com/feed/",
+      "publisher_country": "IL",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Jerusalem Post",
+      "url": "https://www.jpost.com/Rss/RssFeedsHeadlines.aspx",
+      "publisher_country": "IL",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "EG": [
+    {
+      "name": "Ahram Online",
+      "url": "https://english.ahram.org.eg/rss.xml",
+      "publisher_country": "EG",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "NG": [
+    {
+      "name": "Premium Times",
+      "url": "https://www.premiumtimesng.com/feed",
+      "publisher_country": "NG",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Guardian Nigeria",
+      "url": "https://guardian.ng/feed/",
+      "publisher_country": "NG",
+      "language": "en",
+      "category_hint": "macro"
+    }
+  ],
+  "KE": [
+    {
+      "name": "Nation Africa",
+      "url": "https://nation.africa/kenya/rss",
+      "publisher_country": "KE",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "ZA": [
+    {
+      "name": "News24",
+      "url": "https://www.news24.com/news24/rss",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "BusinessLIVE",
+      "url": "https://www.businesslive.co.za/rss/feed",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "News24 markets",
+      "url": "https://www.news24.com/news24/rss?view=macro",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "News24 technology",
+      "url": "https://www.news24.com/news24/rss?view=tech",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "tech"
+    },
+    {
+      "name": "BusinessLIVE markets",
+      "url": "https://www.businesslive.co.za/rss/feed?view=macro",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "BusinessLIVE technology",
+      "url": "https://www.businesslive.co.za/rss/feed?view=tech",
+      "publisher_country": "ZA",
+      "language": "en",
+      "category_hint": "tech"
+    }
+  ],
+  "MA": [
+    {
+      "name": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/feed",
+      "publisher_country": "MA",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "DZ": [
+    {
+      "name": "Algerie Presse",
+      "url": "https://www.aps.dz/en/rss-feed",
+      "publisher_country": "DZ",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "TN": [
+    {
+      "name": "Tunisia Live",
+      "url": "https://www.tunisialive.net/feed/",
+      "publisher_country": "TN",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "ID": [
+    {
+      "name": "Jakarta Post",
+      "url": "https://www.thejakartapost.com/rss",
+      "publisher_country": "ID",
+      "language": "en",
+      "category_hint": "geopolitics"
+    },
+    {
+      "name": "Antara",
+      "url": "https://en.antaranews.com/rss/news.xml",
+      "publisher_country": "ID",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "MY": [
+    {
+      "name": "The Star",
+      "url": "https://www.thestar.com.my/rss/news/latest",
+      "publisher_country": "MY",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "SG": [
+    {
+      "name": "Straits Times",
+      "url": "https://www.straitstimes.com/news/singapore/rss.xml",
+      "publisher_country": "SG",
+      "language": "en",
+      "category_hint": "macro"
+    },
+    {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/rssfeeds/8395986",
+      "publisher_country": "SG",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "TH": [
+    {
+      "name": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/rss/data/world.xml",
+      "publisher_country": "TH",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "VN": [
+    {
+      "name": "VNExpress",
+      "url": "https://e.vnexpress.net/rss/news.rss",
+      "publisher_country": "VN",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "PH": [
+    {
+      "name": "Inquirer",
+      "url": "https://newsinfo.inquirer.net/feed",
+      "publisher_country": "PH",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "PK": [
+    {
+      "name": "Dawn",
+      "url": "https://www.dawn.com/feeds/home",
+      "publisher_country": "PK",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "BD": [
+    {
+      "name": "Daily Star BD",
+      "url": "https://www.thedailystar.net/frontpage/rss.xml",
+      "publisher_country": "BD",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "LK": [
+    {
+      "name": "Daily Mirror LK",
+      "url": "https://www.dailymirror.lk/rss",
+      "publisher_country": "LK",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "TW": [
+    {
+      "name": "Taipei Times",
+      "url": "https://www.taipeitimes.com/rss/rss.xml",
+      "publisher_country": "TW",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ],
+  "HK": [
+    {
+      "name": "HKFP",
+      "url": "https://hongkongfp.com/feed/",
+      "publisher_country": "HK",
+      "language": "en",
+      "category_hint": "geopolitics"
+    }
+  ]
+}

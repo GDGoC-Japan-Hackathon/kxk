@@ -1,0 +1,613 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "bitcoin"
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "ethereum"
+  },
+  {
+    "symbol": "SOL",
+    "name": "Solana",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "solana"
+  },
+  {
+    "symbol": "BNB",
+    "name": "BNB",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "binancecoin"
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "ripple"
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "cardano"
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "asset_class": "Crypto",
+    "region": "Global",
+    "type": "spot",
+    "currency": "USD",
+    "exchange": "CoinGecko",
+    "provider_priority": [
+      "coingecko"
+    ],
+    "coingecko_id": "dogecoin"
+  },
+  {
+    "symbol": "SPY.US",
+    "name": "SPDR S&P 500 ETF",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "spy.us"
+  },
+  {
+    "symbol": "QQQ.US",
+    "name": "Invesco QQQ",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "qqq.us"
+  },
+  {
+    "symbol": "VTI.US",
+    "name": "Vanguard Total Stock Market ETF",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "VOO.US",
+    "name": "Vanguard S&P 500 ETF",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "GLD.US",
+    "name": "SPDR Gold Shares",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "gld.us"
+  },
+  {
+    "symbol": "EEM.US",
+    "name": "iShares MSCI EM ETF",
+    "asset_class": "ETFs",
+    "region": "Global",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "AAPL.US",
+    "name": "Apple Inc.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "aapl.us"
+  },
+  {
+    "symbol": "MSFT.US",
+    "name": "Microsoft Corp.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "NVDA.US",
+    "name": "NVIDIA Corp.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "TSLA.US",
+    "name": "Tesla Inc.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "GOOGL.US",
+    "name": "Alphabet Inc.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "005930.KR",
+    "name": "Samsung Electronics",
+    "asset_class": "Stocks",
+    "region": "Korea",
+    "type": "equity",
+    "currency": "KRW",
+    "exchange": "KRX",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "^IXIC",
+    "name": "NASDAQ Composite",
+    "asset_class": "Indices",
+    "region": "US",
+    "type": "index",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^comp"
+  },
+  {
+    "symbol": "^GSPC",
+    "name": "S&P 500",
+    "asset_class": "Indices",
+    "region": "US",
+    "type": "index",
+    "currency": "USD",
+    "exchange": "S&P",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^spx"
+  },
+  {
+    "symbol": "^VIX",
+    "name": "CBOE Volatility Index",
+    "asset_class": "Indices",
+    "region": "US",
+    "type": "index",
+    "currency": "USD",
+    "exchange": "CBOE",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^vix"
+  },
+  {
+    "symbol": "^N225",
+    "name": "Nikkei 225",
+    "asset_class": "Indices",
+    "region": "Japan",
+    "type": "index",
+    "currency": "JPY",
+    "exchange": "TSE",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^nkx"
+  },
+  {
+    "symbol": "^KS11",
+    "name": "KOSPI",
+    "asset_class": "Indices",
+    "region": "Korea",
+    "type": "index",
+    "currency": "KRW",
+    "exchange": "KRX",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^kospi"
+  },
+  {
+    "symbol": "^KQ11",
+    "name": "KOSDAQ",
+    "asset_class": "Indices",
+    "region": "Korea",
+    "type": "index",
+    "currency": "KRW",
+    "exchange": "KRX",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^kosdaq"
+  },
+  {
+    "symbol": "^STOXX50E",
+    "name": "Euro Stoxx 50",
+    "asset_class": "Indices",
+    "region": "Europe",
+    "type": "index",
+    "currency": "EUR",
+    "exchange": "Euronext",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "stx"
+  },
+  {
+    "symbol": "EURUSD",
+    "name": "EUR/USD",
+    "asset_class": "FX",
+    "region": "Global",
+    "type": "fx",
+    "currency": "USD",
+    "exchange": "Spot",
+    "provider_priority": [
+      "exchangerate_host",
+      "ecb"
+    ]
+  },
+  {
+    "symbol": "USDJPY",
+    "name": "USD/JPY",
+    "asset_class": "FX",
+    "region": "Global",
+    "type": "fx",
+    "currency": "JPY",
+    "exchange": "Spot",
+    "provider_priority": [
+      "exchangerate_host",
+      "ecb"
+    ]
+  },
+  {
+    "symbol": "USDKRW",
+    "name": "USD/KRW",
+    "asset_class": "FX",
+    "region": "Global",
+    "type": "fx",
+    "currency": "KRW",
+    "exchange": "Spot",
+    "provider_priority": [
+      "exchangerate_host"
+    ]
+  },
+  {
+    "symbol": "WTI",
+    "name": "WTI Crude Oil",
+    "asset_class": "Commodities",
+    "region": "Global",
+    "type": "commodity",
+    "currency": "USD",
+    "exchange": "NYMEX",
+    "provider_priority": [
+      "stooq",
+      "fred",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "BRENT",
+    "name": "Brent Crude Oil",
+    "asset_class": "Commodities",
+    "region": "Global",
+    "type": "commodity",
+    "currency": "USD",
+    "exchange": "ICE",
+    "provider_priority": [
+      "stooq",
+      "fred",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "XAUUSD",
+    "name": "Gold Spot",
+    "asset_class": "Commodities",
+    "region": "Global",
+    "type": "commodity",
+    "currency": "USD",
+    "exchange": "OTC",
+    "provider_priority": [
+      "stooq",
+      "fred",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "US10Y",
+    "name": "US 10Y Treasury Yield",
+    "asset_class": "Macro",
+    "region": "US",
+    "type": "rate",
+    "currency": "%",
+    "exchange": "Treasury",
+    "provider_priority": [
+      "fred",
+      "stooq",
+      "yahoo"
+    ]
+  },
+  {
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "spy.us"
+  },
+  {
+    "symbol": "QQQ",
+    "name": "Invesco QQQ",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "qqq.us"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "aapl.us"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "asset_class": "Stocks",
+    "region": "US",
+    "type": "equity",
+    "currency": "USD",
+    "exchange": "NASDAQ",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "tsla.us"
+  },
+  {
+    "symbol": "GLD",
+    "name": "SPDR Gold Shares",
+    "asset_class": "ETFs",
+    "region": "US",
+    "type": "etf",
+    "currency": "USD",
+    "exchange": "NYSE Arca",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "gld.us"
+  },
+  {
+    "symbol": "XAGUSD",
+    "name": "Silver Spot",
+    "asset_class": "Commodities",
+    "region": "Global",
+    "type": "commodity",
+    "currency": "USD",
+    "exchange": "OTC",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "xagusd"
+  },
+  {
+    "symbol": "^HSI",
+    "name": "Hang Seng Index",
+    "asset_class": "Indices",
+    "region": "China",
+    "type": "index",
+    "currency": "HKD",
+    "exchange": "HKEX",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^hsi"
+  },
+  {
+    "symbol": "000001.SS",
+    "name": "Shanghai Composite",
+    "asset_class": "Indices",
+    "region": "China",
+    "type": "index",
+    "currency": "CNY",
+    "exchange": "SSE",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "shc"
+  },
+  {
+    "symbol": "399001.SZ",
+    "name": "Shenzhen Component",
+    "asset_class": "Indices",
+    "region": "China",
+    "type": "index",
+    "currency": "CNY",
+    "exchange": "SZSE",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "szi"
+  },
+  {
+    "symbol": "^FTSE",
+    "name": "FTSE 100",
+    "asset_class": "Indices",
+    "region": "Europe",
+    "type": "index",
+    "currency": "GBP",
+    "exchange": "LSE",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^ukx"
+  },
+  {
+    "symbol": "^GDAXI",
+    "name": "DAX",
+    "asset_class": "Indices",
+    "region": "Europe",
+    "type": "index",
+    "currency": "EUR",
+    "exchange": "Xetra",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^dax"
+  },
+  {
+    "symbol": "^FCHI",
+    "name": "CAC 40",
+    "asset_class": "Indices",
+    "region": "Europe",
+    "type": "index",
+    "currency": "EUR",
+    "exchange": "Euronext Paris",
+    "provider_priority": [
+      "stooq",
+      "yahoo"
+    ],
+    "stooq_symbol": "^cac"
+  }
+]
